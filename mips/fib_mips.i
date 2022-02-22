@@ -2,54 +2,49 @@
 # 1 "<built-in>"
 # 1 "<command-line>"
 # 31 "<command-line>"
-# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/stdc-predef.h" 1 3
 # 32 "<command-line>" 2
 # 1 "fib.c"
-# 1 "/usr/include/stdio.h" 1 3 4
-# 27 "/usr/include/stdio.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
-# 33 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 3 4
-# 1 "/usr/include/features.h" 1 3 4
-# 461 "/usr/include/features.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/sys/cdefs.h" 1 3 4
-# 452 "/usr/include/x86_64-linux-gnu/sys/cdefs.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/wordsize.h" 1 3 4
-# 453 "/usr/include/x86_64-linux-gnu/sys/cdefs.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/long-double.h" 1 3 4
-# 454 "/usr/include/x86_64-linux-gnu/sys/cdefs.h" 2 3 4
-# 462 "/usr/include/features.h" 2 3 4
-# 485 "/usr/include/features.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/gnu/stubs.h" 1 3 4
-# 10 "/usr/include/x86_64-linux-gnu/gnu/stubs.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/gnu/stubs-64.h" 1 3 4
-# 11 "/usr/include/x86_64-linux-gnu/gnu/stubs.h" 2 3 4
-# 486 "/usr/include/features.h" 2 3 4
-# 34 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 2 3 4
-# 28 "/usr/include/stdio.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/stdio.h" 1 3
+# 27 "/usr/mips-linux-gnu/include/stdio.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/libc-header-start.h" 1 3
+# 33 "/usr/mips-linux-gnu/include/bits/libc-header-start.h" 3
+# 1 "/usr/mips-linux-gnu/include/features.h" 1 3
+# 424 "/usr/mips-linux-gnu/include/features.h" 3
+# 1 "/usr/mips-linux-gnu/include/sys/cdefs.h" 1 3
+# 427 "/usr/mips-linux-gnu/include/sys/cdefs.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/wordsize.h" 1 3
+# 18 "/usr/mips-linux-gnu/include/bits/wordsize.h" 3
+# 1 "/usr/mips-linux-gnu/include/sgidefs.h" 1 3
+# 19 "/usr/mips-linux-gnu/include/bits/wordsize.h" 2 3
+# 428 "/usr/mips-linux-gnu/include/sys/cdefs.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/long-double.h" 1 3
+# 429 "/usr/mips-linux-gnu/include/sys/cdefs.h" 2 3
+# 425 "/usr/mips-linux-gnu/include/features.h" 2 3
+# 448 "/usr/mips-linux-gnu/include/features.h" 3
+# 1 "/usr/mips-linux-gnu/include/gnu/stubs.h" 1 3
+# 11 "/usr/mips-linux-gnu/include/gnu/stubs.h" 3
+# 1 "/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h" 1 3
+# 12 "/usr/mips-linux-gnu/include/gnu/stubs.h" 2 3
+# 449 "/usr/mips-linux-gnu/include/features.h" 2 3
+# 34 "/usr/mips-linux-gnu/include/bits/libc-header-start.h" 2 3
+# 28 "/usr/mips-linux-gnu/include/stdio.h" 2 3
 
 
 
 
 
-# 1 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 1 3 4
-# 209 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 3 4
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 1 3 4
+# 216 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 3 4
 
-# 209 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 3 4
-typedef long unsigned int size_t;
-# 34 "/usr/include/stdio.h" 2 3 4
+# 216 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 3 4
+typedef unsigned int size_t;
+# 34 "/usr/mips-linux-gnu/include/stdio.h" 2 3
 
-
-# 1 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h" 1 3 4
-# 40 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h" 3 4
-typedef __builtin_va_list __gnuc_va_list;
-# 37 "/usr/include/stdio.h" 2 3 4
-
-# 1 "/usr/include/x86_64-linux-gnu/bits/types.h" 1 3 4
-# 27 "/usr/include/x86_64-linux-gnu/bits/types.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/wordsize.h" 1 3 4
-# 28 "/usr/include/x86_64-linux-gnu/bits/types.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/timesize.h" 1 3 4
-# 29 "/usr/include/x86_64-linux-gnu/bits/types.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types.h" 1 3
+# 27 "/usr/mips-linux-gnu/include/bits/types.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/wordsize.h" 1 3
+# 28 "/usr/mips-linux-gnu/include/bits/types.h" 2 3
 
 
 typedef unsigned char __u_char;
@@ -65,27 +60,11 @@ typedef unsigned short int __uint16_t;
 typedef signed int __int32_t;
 typedef unsigned int __uint32_t;
 
-typedef signed long int __int64_t;
-typedef unsigned long int __uint64_t;
 
 
 
-
-
-
-typedef __int8_t __int_least8_t;
-typedef __uint8_t __uint_least8_t;
-typedef __int16_t __int_least16_t;
-typedef __uint16_t __uint_least16_t;
-typedef __int32_t __int_least32_t;
-typedef __uint32_t __uint_least32_t;
-typedef __int64_t __int_least64_t;
-typedef __uint64_t __uint_least64_t;
-
-
-
-typedef long int __quad_t;
-typedef unsigned long int __u_quad_t;
+__extension__ typedef signed long long int __int64_t;
+__extension__ typedef unsigned long long int __uint64_t;
 
 
 
@@ -93,69 +72,76 @@ typedef unsigned long int __u_quad_t;
 
 
 
-typedef long int __intmax_t;
-typedef unsigned long int __uintmax_t;
-# 141 "/usr/include/x86_64-linux-gnu/bits/types.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/typesizes.h" 1 3 4
-# 142 "/usr/include/x86_64-linux-gnu/bits/types.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/time64.h" 1 3 4
-# 143 "/usr/include/x86_64-linux-gnu/bits/types.h" 2 3 4
-
-
-typedef unsigned long int __dev_t;
-typedef unsigned int __uid_t;
-typedef unsigned int __gid_t;
-typedef unsigned long int __ino_t;
-typedef unsigned long int __ino64_t;
-typedef unsigned int __mode_t;
-typedef unsigned long int __nlink_t;
-typedef long int __off_t;
-typedef long int __off64_t;
-typedef int __pid_t;
-typedef struct { int __val[2]; } __fsid_t;
-typedef long int __clock_t;
-typedef unsigned long int __rlim_t;
-typedef unsigned long int __rlim64_t;
-typedef unsigned int __id_t;
-typedef long int __time_t;
-typedef unsigned int __useconds_t;
-typedef long int __suseconds_t;
-
-typedef int __daddr_t;
-typedef int __key_t;
-
-
-typedef int __clockid_t;
-
-
-typedef void * __timer_t;
-
-
-typedef long int __blksize_t;
+__extension__ typedef long long int __quad_t;
+__extension__ typedef unsigned long long int __u_quad_t;
 
 
 
 
-typedef long int __blkcnt_t;
-typedef long int __blkcnt64_t;
 
 
-typedef unsigned long int __fsblkcnt_t;
-typedef unsigned long int __fsblkcnt64_t;
+
+__extension__ typedef long long int __intmax_t;
+__extension__ typedef unsigned long long int __uintmax_t;
+# 130 "/usr/mips-linux-gnu/include/bits/types.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/typesizes.h" 1 3
+# 131 "/usr/mips-linux-gnu/include/bits/types.h" 2 3
 
 
-typedef unsigned long int __fsfilcnt_t;
-typedef unsigned long int __fsfilcnt64_t;
+__extension__ typedef __u_quad_t __dev_t;
+__extension__ typedef unsigned int __uid_t;
+__extension__ typedef unsigned int __gid_t;
+__extension__ typedef unsigned long int __ino_t;
+__extension__ typedef __u_quad_t __ino64_t;
+__extension__ typedef unsigned int __mode_t;
+__extension__ typedef unsigned int __nlink_t;
+__extension__ typedef long int __off_t;
+__extension__ typedef __quad_t __off64_t;
+__extension__ typedef int __pid_t;
+__extension__ typedef struct { int __val[2]; } __fsid_t;
+__extension__ typedef long int __clock_t;
+__extension__ typedef unsigned long int __rlim_t;
+__extension__ typedef __u_quad_t __rlim64_t;
+__extension__ typedef unsigned int __id_t;
+__extension__ typedef long int __time_t;
+__extension__ typedef unsigned int __useconds_t;
+__extension__ typedef long int __suseconds_t;
+
+__extension__ typedef int __daddr_t;
+__extension__ typedef int __key_t;
 
 
-typedef long int __fsword_t;
-
-typedef long int __ssize_t;
+__extension__ typedef int __clockid_t;
 
 
-typedef long int __syscall_slong_t;
+__extension__ typedef void * __timer_t;
 
-typedef unsigned long int __syscall_ulong_t;
+
+__extension__ typedef long int __blksize_t;
+
+
+
+
+__extension__ typedef long int __blkcnt_t;
+__extension__ typedef __quad_t __blkcnt64_t;
+
+
+__extension__ typedef unsigned long int __fsblkcnt_t;
+__extension__ typedef __u_quad_t __fsblkcnt64_t;
+
+
+__extension__ typedef unsigned long int __fsfilcnt_t;
+__extension__ typedef __u_quad_t __fsfilcnt64_t;
+
+
+__extension__ typedef int __fsword_t;
+
+__extension__ typedef int __ssize_t;
+
+
+__extension__ typedef long int __syscall_slong_t;
+
+__extension__ typedef unsigned long int __syscall_ulong_t;
 
 
 
@@ -163,23 +149,44 @@ typedef __off64_t __loff_t;
 typedef char *__caddr_t;
 
 
-typedef long int __intptr_t;
+__extension__ typedef int __intptr_t;
 
 
-typedef unsigned int __socklen_t;
+__extension__ typedef unsigned int __socklen_t;
 
 
 
 
 typedef int __sig_atomic_t;
-# 39 "/usr/include/stdio.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h" 1 3 4
+# 36 "/usr/mips-linux-gnu/include/stdio.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/__FILE.h" 1 3
 
 
 
+struct _IO_FILE;
+typedef struct _IO_FILE __FILE;
+# 37 "/usr/mips-linux-gnu/include/stdio.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/FILE.h" 1 3
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h" 1 3 4
-# 13 "/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h" 3 4
+
+
+struct _IO_FILE;
+
+
+typedef struct _IO_FILE FILE;
+# 38 "/usr/mips-linux-gnu/include/stdio.h" 2 3
+
+
+
+# 1 "/usr/mips-linux-gnu/include/bits/libio.h" 1 3
+# 35 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/_G_config.h" 1 3
+# 19 "/usr/mips-linux-gnu/include/bits/_G_config.h" 3
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 1 3 4
+# 20 "/usr/mips-linux-gnu/include/bits/_G_config.h" 2 3
+
+# 1 "/usr/mips-linux-gnu/include/bits/types/__mbstate_t.h" 1 3
+# 13 "/usr/mips-linux-gnu/include/bits/types/__mbstate_t.h" 3
 typedef struct
 {
   int __count;
@@ -189,47 +196,29 @@ typedef struct
     char __wchb[4];
   } __value;
 } __mbstate_t;
-# 6 "/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h" 2 3 4
+# 22 "/usr/mips-linux-gnu/include/bits/_G_config.h" 2 3
 
 
 
 
-typedef struct _G_fpos_t
+typedef struct
 {
   __off_t __pos;
   __mbstate_t __state;
-} __fpos_t;
-# 40 "/usr/include/stdio.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h" 1 3 4
-# 10 "/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h" 3 4
-typedef struct _G_fpos64_t
+} _G_fpos_t;
+typedef struct
 {
   __off64_t __pos;
   __mbstate_t __state;
-} __fpos64_t;
-# 41 "/usr/include/stdio.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/__FILE.h" 1 3 4
-
-
-
-struct _IO_FILE;
-typedef struct _IO_FILE __FILE;
-# 42 "/usr/include/stdio.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/FILE.h" 1 3 4
-
-
-
-struct _IO_FILE;
-
-
-typedef struct _IO_FILE FILE;
-# 43 "/usr/include/stdio.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h" 1 3 4
-# 35 "/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h" 3 4
-struct _IO_FILE;
-struct _IO_marker;
-struct _IO_codecvt;
-struct _IO_wide_data;
+} _G_fpos64_t;
+# 36 "/usr/mips-linux-gnu/include/bits/libio.h" 2 3
+# 53 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdarg.h" 1 3 4
+# 40 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdarg.h" 3 4
+typedef __builtin_va_list __gnuc_va_list;
+# 54 "/usr/mips-linux-gnu/include/bits/libio.h" 2 3
+# 149 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+struct _IO_jump_t; struct _IO_FILE;
 
 
 
@@ -240,20 +229,39 @@ typedef void _IO_lock_t;
 
 
 
-struct _IO_FILE
+struct _IO_marker {
+  struct _IO_marker *_next;
+  struct _IO_FILE *_sbuf;
+
+
+
+  int _pos;
+# 177 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+};
+
+
+enum __codecvt_result
 {
+  __codecvt_ok,
+  __codecvt_partial,
+  __codecvt_error,
+  __codecvt_noconv
+};
+# 245 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+struct _IO_FILE {
   int _flags;
 
 
-  char *_IO_read_ptr;
-  char *_IO_read_end;
-  char *_IO_read_base;
-  char *_IO_write_base;
-  char *_IO_write_ptr;
-  char *_IO_write_end;
-  char *_IO_buf_base;
-  char *_IO_buf_end;
 
+
+  char* _IO_read_ptr;
+  char* _IO_read_end;
+  char* _IO_read_base;
+  char* _IO_write_base;
+  char* _IO_write_ptr;
+  char* _IO_write_end;
+  char* _IO_buf_base;
+  char* _IO_buf_end;
 
   char *_IO_save_base;
   char *_IO_backup_base;
@@ -264,39 +272,114 @@ struct _IO_FILE
   struct _IO_FILE *_chain;
 
   int _fileno;
+
+
+
   int _flags2;
+
   __off_t _old_offset;
+
 
 
   unsigned short _cur_column;
   signed char _vtable_offset;
   char _shortbuf[1];
 
+
+
   _IO_lock_t *_lock;
-
-
-
-
-
-
-
+# 293 "/usr/mips-linux-gnu/include/bits/libio.h" 3
   __off64_t _offset;
 
-  struct _IO_codecvt *_codecvt;
-  struct _IO_wide_data *_wide_data;
-  struct _IO_FILE *_freeres_list;
-  void *_freeres_buf;
+
+
+
+
+
+
+  void *__pad1;
+  void *__pad2;
+  void *__pad3;
+  void *__pad4;
+
   size_t __pad5;
   int _mode;
 
   char _unused2[15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)];
+
 };
-# 44 "/usr/include/stdio.h" 2 3 4
-# 52 "/usr/include/stdio.h" 3 4
+
+
+typedef struct _IO_FILE _IO_FILE;
+
+
+struct _IO_FILE_plus;
+
+extern struct _IO_FILE_plus _IO_2_1_stdin_;
+extern struct _IO_FILE_plus _IO_2_1_stdout_;
+extern struct _IO_FILE_plus _IO_2_1_stderr_;
+# 337 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+typedef __ssize_t __io_read_fn (void *__cookie, char *__buf, size_t __nbytes);
+
+
+
+
+
+
+
+typedef __ssize_t __io_write_fn (void *__cookie, const char *__buf,
+     size_t __n);
+
+
+
+
+
+
+
+typedef int __io_seek_fn (void *__cookie, __off64_t *__pos, int __w);
+
+
+typedef int __io_close_fn (void *__cookie);
+# 389 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+extern int __underflow (_IO_FILE *);
+extern int __uflow (_IO_FILE *);
+extern int __overflow (_IO_FILE *, int);
+# 433 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+extern int _IO_getc (_IO_FILE *__fp);
+extern int _IO_putc (int __c, _IO_FILE *__fp);
+extern int _IO_feof (_IO_FILE *__fp) __attribute__ ((__nothrow__ , __leaf__));
+extern int _IO_ferror (_IO_FILE *__fp) __attribute__ ((__nothrow__ , __leaf__));
+
+extern int _IO_peekc_locked (_IO_FILE *__fp);
+
+
+
+
+
+extern void _IO_flockfile (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));
+extern void _IO_funlockfile (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));
+extern int _IO_ftrylockfile (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));
+# 462 "/usr/mips-linux-gnu/include/bits/libio.h" 3
+extern int _IO_vfscanf (_IO_FILE * __restrict, const char * __restrict,
+   __gnuc_va_list, int *__restrict);
+extern int _IO_vfprintf (_IO_FILE *__restrict, const char *__restrict,
+    __gnuc_va_list);
+extern __ssize_t _IO_padn (_IO_FILE *, int, __ssize_t);
+extern size_t _IO_sgetn (_IO_FILE *, void *, size_t);
+
+extern __off64_t _IO_seekoff (_IO_FILE *, __off64_t, int, int);
+extern __off64_t _IO_seekpos (_IO_FILE *, __off64_t, int);
+
+extern void _IO_free_backup_area (_IO_FILE *) __attribute__ ((__nothrow__ , __leaf__));
+# 42 "/usr/mips-linux-gnu/include/stdio.h" 2 3
+
+
+
+
 typedef __gnuc_va_list va_list;
-# 63 "/usr/include/stdio.h" 3 4
+# 57 "/usr/mips-linux-gnu/include/stdio.h" 3
 typedef __off_t off_t;
-# 77 "/usr/include/stdio.h" 3 4
+# 71 "/usr/mips-linux-gnu/include/stdio.h" 3
 typedef __ssize_t ssize_t;
 
 
@@ -304,16 +387,16 @@ typedef __ssize_t ssize_t;
 
 
 
-typedef __fpos_t fpos_t;
-# 133 "/usr/include/stdio.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/stdio_lim.h" 1 3 4
-# 134 "/usr/include/stdio.h" 2 3 4
+typedef _G_fpos_t fpos_t;
+# 131 "/usr/mips-linux-gnu/include/stdio.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/stdio_lim.h" 1 3
+# 132 "/usr/mips-linux-gnu/include/stdio.h" 2 3
 
 
 
-extern FILE *stdin;
-extern FILE *stdout;
-extern FILE *stderr;
+extern struct _IO_FILE *stdin;
+extern struct _IO_FILE *stdout;
+extern struct _IO_FILE *stderr;
 
 
 
@@ -328,16 +411,22 @@ extern int rename (const char *__old, const char *__new) __attribute__ ((__nothr
 
 extern int renameat (int __oldfd, const char *__old, int __newfd,
        const char *__new) __attribute__ ((__nothrow__ , __leaf__));
-# 173 "/usr/include/stdio.h" 3 4
+
+
+
+
+
+
+
 extern FILE *tmpfile (void) ;
-# 187 "/usr/include/stdio.h" 3 4
+# 173 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern char *tmpnam (char *__s) __attribute__ ((__nothrow__ , __leaf__)) ;
 
 
 
 
 extern char *tmpnam_r (char *__s) __attribute__ ((__nothrow__ , __leaf__)) ;
-# 204 "/usr/include/stdio.h" 3 4
+# 190 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern char *tempnam (const char *__dir, const char *__pfx)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) ;
 
@@ -353,9 +442,9 @@ extern int fclose (FILE *__stream);
 
 
 extern int fflush (FILE *__stream);
-# 227 "/usr/include/stdio.h" 3 4
+# 213 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fflush_unlocked (FILE *__stream);
-# 246 "/usr/include/stdio.h" 3 4
+# 232 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern FILE *fopen (const char *__restrict __filename,
       const char *__restrict __modes) ;
 
@@ -365,9 +454,9 @@ extern FILE *fopen (const char *__restrict __filename,
 extern FILE *freopen (const char *__restrict __filename,
         const char *__restrict __modes,
         FILE *__restrict __stream) ;
-# 279 "/usr/include/stdio.h" 3 4
+# 265 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern FILE *fdopen (int __fd, const char *__modes) __attribute__ ((__nothrow__ , __leaf__)) ;
-# 292 "/usr/include/stdio.h" 3 4
+# 278 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern FILE *fmemopen (void *__s, size_t __len, const char *__modes)
   __attribute__ ((__nothrow__ , __leaf__)) ;
 
@@ -437,7 +526,7 @@ extern int snprintf (char *__restrict __s, size_t __maxlen,
 extern int vsnprintf (char *__restrict __s, size_t __maxlen,
         const char *__restrict __format, __gnuc_va_list __arg)
      __attribute__ ((__nothrow__)) __attribute__ ((__format__ (__printf__, 3, 0)));
-# 379 "/usr/include/stdio.h" 3 4
+# 365 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int vdprintf (int __fd, const char *__restrict __fmt,
        __gnuc_va_list __arg)
      __attribute__ ((__format__ (__printf__, 2, 0)));
@@ -460,12 +549,7 @@ extern int scanf (const char *__restrict __format, ...) ;
 
 extern int sscanf (const char *__restrict __s,
      const char *__restrict __format, ...) __attribute__ ((__nothrow__ , __leaf__));
-
-
-
-
-
-
+# 395 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fscanf (FILE *__restrict __stream, const char *__restrict __format, ...) __asm__ ("" "__isoc99_fscanf")
 
                                ;
@@ -474,7 +558,7 @@ extern int scanf (const char *__restrict __format, ...) __asm__ ("" "__isoc99_sc
 extern int sscanf (const char *__restrict __s, const char *__restrict __format, ...) __asm__ ("" "__isoc99_sscanf") __attribute__ ((__nothrow__ , __leaf__))
 
                       ;
-# 432 "/usr/include/stdio.h" 3 4
+# 420 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int vfscanf (FILE *__restrict __s, const char *__restrict __format,
       __gnuc_va_list __arg)
      __attribute__ ((__format__ (__scanf__, 2, 0))) ;
@@ -490,10 +574,7 @@ extern int vscanf (const char *__restrict __format, __gnuc_va_list __arg)
 extern int vsscanf (const char *__restrict __s,
       const char *__restrict __format, __gnuc_va_list __arg)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__format__ (__scanf__, 2, 0)));
-
-
-
-
+# 443 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int vfscanf (FILE *__restrict __s, const char *__restrict __format, __gnuc_va_list __arg) __asm__ ("" "__isoc99_vfscanf")
 
 
@@ -507,7 +588,7 @@ extern int vsscanf (const char *__restrict __s, const char *__restrict __format,
 
 
      __attribute__ ((__format__ (__scanf__, 2, 0)));
-# 485 "/usr/include/stdio.h" 3 4
+# 477 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fgetc (FILE *__stream);
 extern int getc (FILE *__stream);
 
@@ -516,17 +597,12 @@ extern int getc (FILE *__stream);
 
 
 extern int getchar (void);
-
-
-
-
-
-
+# 495 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int getc_unlocked (FILE *__stream);
 extern int getchar_unlocked (void);
-# 510 "/usr/include/stdio.h" 3 4
+# 506 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fgetc_unlocked (FILE *__stream);
-# 521 "/usr/include/stdio.h" 3 4
+# 517 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fputc (int __c, FILE *__stream);
 extern int putc (int __c, FILE *__stream);
 
@@ -535,7 +611,7 @@ extern int putc (int __c, FILE *__stream);
 
 
 extern int putchar (int __c);
-# 537 "/usr/include/stdio.h" 3 4
+# 537 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fputc_unlocked (int __c, FILE *__stream);
 
 
@@ -565,13 +641,13 @@ extern int putw (int __w, FILE *__stream);
 
 extern char *fgets (char *__restrict __s, int __n, FILE *__restrict __stream)
      ;
-# 603 "/usr/include/stdio.h" 3 4
+# 603 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern __ssize_t __getdelim (char **__restrict __lineptr,
-                             size_t *__restrict __n, int __delimiter,
-                             FILE *__restrict __stream) ;
+          size_t *__restrict __n, int __delimiter,
+          FILE *__restrict __stream) ;
 extern __ssize_t getdelim (char **__restrict __lineptr,
-                           size_t *__restrict __n, int __delimiter,
-                           FILE *__restrict __stream) ;
+        size_t *__restrict __n, int __delimiter,
+        FILE *__restrict __stream) ;
 
 
 
@@ -580,8 +656,8 @@ extern __ssize_t getdelim (char **__restrict __lineptr,
 
 
 extern __ssize_t getline (char **__restrict __lineptr,
-                          size_t *__restrict __n,
-                          FILE *__restrict __stream) ;
+       size_t *__restrict __n,
+       FILE *__restrict __stream) ;
 
 
 
@@ -617,7 +693,7 @@ extern size_t fread (void *__restrict __ptr, size_t __size,
 
 extern size_t fwrite (const void *__restrict __ptr, size_t __size,
         size_t __n, FILE *__restrict __s);
-# 673 "/usr/include/stdio.h" 3 4
+# 673 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern size_t fread_unlocked (void *__restrict __ptr, size_t __size,
          size_t __n, FILE *__restrict __stream) ;
 extern size_t fwrite_unlocked (const void *__restrict __ptr, size_t __size,
@@ -640,21 +716,21 @@ extern long int ftell (FILE *__stream) ;
 
 
 extern void rewind (FILE *__stream);
-# 707 "/usr/include/stdio.h" 3 4
+# 707 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fseeko (FILE *__stream, __off_t __off, int __whence);
 
 
 
 
 extern __off_t ftello (FILE *__stream) ;
-# 731 "/usr/include/stdio.h" 3 4
+# 731 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern int fgetpos (FILE *__restrict __stream, fpos_t *__restrict __pos);
 
 
 
 
 extern int fsetpos (FILE *__stream, const fpos_t *__pos);
-# 757 "/usr/include/stdio.h" 3 4
+# 757 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern void clearerr (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));
 
 extern int feof (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;
@@ -679,11 +755,11 @@ extern void perror (const char *__s);
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/sys_errlist.h" 1 3 4
-# 26 "/usr/include/x86_64-linux-gnu/bits/sys_errlist.h" 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/sys_errlist.h" 1 3
+# 26 "/usr/mips-linux-gnu/include/bits/sys_errlist.h" 3
 extern int sys_nerr;
 extern const char *const sys_errlist[];
-# 782 "/usr/include/stdio.h" 2 3 4
+# 782 "/usr/mips-linux-gnu/include/stdio.h" 2 3
 
 
 
@@ -694,7 +770,7 @@ extern int fileno (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;
 
 
 extern int fileno_unlocked (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)) ;
-# 800 "/usr/include/stdio.h" 3 4
+# 800 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern FILE *popen (const char *__command, const char *__modes) ;
 
 
@@ -708,7 +784,7 @@ extern int pclose (FILE *__stream);
 
 
 extern char *ctermid (char *__s) __attribute__ ((__nothrow__ , __leaf__));
-# 840 "/usr/include/stdio.h" 3 4
+# 840 "/usr/mips-linux-gnu/include/stdio.h" 3
 extern void flockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));
 
 
@@ -717,25 +793,22 @@ extern int ftrylockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)
 
 
 extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__));
-# 858 "/usr/include/stdio.h" 3 4
-extern int __uflow (FILE *);
-extern int __overflow (FILE *, int);
-# 873 "/usr/include/stdio.h" 3 4
+# 868 "/usr/mips-linux-gnu/include/stdio.h" 3
 
 # 2 "fib.c" 2
-# 1 "/usr/include/time.h" 1 3 4
-# 29 "/usr/include/time.h" 3 4
-# 1 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 1 3 4
-# 30 "/usr/include/time.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/time.h" 1 3
+# 29 "/usr/mips-linux-gnu/include/time.h" 3
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 1 3 4
+# 30 "/usr/mips-linux-gnu/include/time.h" 2 3
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/time.h" 1 3 4
-# 34 "/usr/include/time.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/time.h" 1 3
+# 34 "/usr/mips-linux-gnu/include/time.h" 2 3
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/clock_t.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/clock_t.h" 1 3
 
 
 
@@ -743,8 +816,8 @@ extern int __overflow (FILE *, int);
 
 
 typedef __clock_t clock_t;
-# 38 "/usr/include/time.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/time_t.h" 1 3 4
+# 38 "/usr/mips-linux-gnu/include/time.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/time_t.h" 1 3
 
 
 
@@ -752,8 +825,8 @@ typedef __clock_t clock_t;
 
 
 typedef __time_t time_t;
-# 39 "/usr/include/time.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h" 1 3 4
+# 39 "/usr/mips-linux-gnu/include/time.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/struct_tm.h" 1 3
 
 
 
@@ -780,37 +853,27 @@ struct tm
 
 
 };
-# 40 "/usr/include/time.h" 2 3 4
+# 40 "/usr/mips-linux-gnu/include/time.h" 2 3
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/struct_timespec.h" 1 3
 
 
 
 
-
-# 1 "/usr/include/x86_64-linux-gnu/bits/endian.h" 1 3 4
-# 35 "/usr/include/x86_64-linux-gnu/bits/endian.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/endianness.h" 1 3 4
-# 36 "/usr/include/x86_64-linux-gnu/bits/endian.h" 2 3 4
-# 7 "/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h" 2 3 4
 
 
 
 struct timespec
 {
   __time_t tv_sec;
-
-
-
   __syscall_slong_t tv_nsec;
-# 26 "/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h" 3 4
 };
-# 43 "/usr/include/time.h" 2 3 4
+# 43 "/usr/mips-linux-gnu/include/time.h" 2 3
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/clockid_t.h" 1 3
 
 
 
@@ -818,8 +881,8 @@ struct timespec
 
 
 typedef __clockid_t clockid_t;
-# 47 "/usr/include/time.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/timer_t.h" 1 3 4
+# 47 "/usr/mips-linux-gnu/include/time.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/timer_t.h" 1 3
 
 
 
@@ -827,8 +890,8 @@ typedef __clockid_t clockid_t;
 
 
 typedef __timer_t timer_t;
-# 48 "/usr/include/time.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h" 1 3 4
+# 48 "/usr/mips-linux-gnu/include/time.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/struct_itimerspec.h" 1 3
 
 
 
@@ -841,7 +904,7 @@ struct itimerspec
     struct timespec it_interval;
     struct timespec it_value;
   };
-# 49 "/usr/include/time.h" 2 3 4
+# 49 "/usr/mips-linux-gnu/include/time.h" 2 3
 struct sigevent;
 
 
@@ -853,10 +916,10 @@ typedef __pid_t pid_t;
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/locale_t.h" 1 3 4
-# 22 "/usr/include/x86_64-linux-gnu/bits/types/locale_t.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h" 1 3 4
-# 28 "/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h" 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/locale_t.h" 1 3
+# 22 "/usr/mips-linux-gnu/include/bits/types/locale_t.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/types/__locale_t.h" 1 3
+# 28 "/usr/mips-linux-gnu/include/bits/types/__locale_t.h" 3
 struct __locale_struct
 {
 
@@ -872,10 +935,10 @@ struct __locale_struct
 };
 
 typedef struct __locale_struct *__locale_t;
-# 23 "/usr/include/x86_64-linux-gnu/bits/types/locale_t.h" 2 3 4
+# 23 "/usr/mips-linux-gnu/include/bits/types/locale_t.h" 2 3
 
 typedef __locale_t locale_t;
-# 61 "/usr/include/time.h" 2 3 4
+# 61 "/usr/mips-linux-gnu/include/time.h" 2 3
 
 
 
@@ -906,12 +969,12 @@ extern time_t mktime (struct tm *__tp) __attribute__ ((__nothrow__ , __leaf__));
 extern size_t strftime (char *__restrict __s, size_t __maxsize,
    const char *__restrict __format,
    const struct tm *__restrict __tp) __attribute__ ((__nothrow__ , __leaf__));
-# 104 "/usr/include/time.h" 3 4
+# 104 "/usr/mips-linux-gnu/include/time.h" 3
 extern size_t strftime_l (char *__restrict __s, size_t __maxsize,
      const char *__restrict __format,
      const struct tm *__restrict __tp,
      locale_t __loc) __attribute__ ((__nothrow__ , __leaf__));
-# 119 "/usr/include/time.h" 3 4
+# 119 "/usr/mips-linux-gnu/include/time.h" 3
 extern struct tm *gmtime (const time_t *__timer) __attribute__ ((__nothrow__ , __leaf__));
 
 
@@ -969,7 +1032,13 @@ extern void tzset (void) __attribute__ ((__nothrow__ , __leaf__));
 
 extern int daylight;
 extern long int timezone;
-# 190 "/usr/include/time.h" 3 4
+
+
+
+
+
+extern int stime (const time_t *__when) __attribute__ ((__nothrow__ , __leaf__));
+# 196 "/usr/mips-linux-gnu/include/time.h" 3
 extern time_t timegm (struct tm *__tp) __attribute__ ((__nothrow__ , __leaf__));
 
 
@@ -977,7 +1046,7 @@ extern time_t timelocal (struct tm *__tp) __attribute__ ((__nothrow__ , __leaf__
 
 
 extern int dysize (int __year) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));
-# 205 "/usr/include/time.h" 3 4
+# 211 "/usr/mips-linux-gnu/include/time.h" 3
 extern int nanosleep (const struct timespec *__requested_time,
         struct timespec *__remaining);
 
@@ -1032,22 +1101,22 @@ extern int timer_getoverrun (timer_t __timerid) __attribute__ ((__nothrow__ , __
 
 extern int timespec_get (struct timespec *__ts, int __base)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
-# 301 "/usr/include/time.h" 3 4
+# 307 "/usr/mips-linux-gnu/include/time.h" 3
 
 # 3 "fib.c" 2
-# 1 "/usr/include/stdlib.h" 1 3 4
-# 25 "/usr/include/stdlib.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
-# 26 "/usr/include/stdlib.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/stdlib.h" 1 3
+# 25 "/usr/mips-linux-gnu/include/stdlib.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/libc-header-start.h" 1 3
+# 26 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
 
 
 
 
 
-# 1 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 1 3 4
-# 321 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 3 4
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 1 3 4
+# 328 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 3 4
 typedef int wchar_t;
-# 32 "/usr/include/stdlib.h" 2 3 4
+# 32 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
 
 
 
@@ -1055,26 +1124,29 @@ typedef int wchar_t;
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/waitflags.h" 1 3 4
-# 52 "/usr/include/x86_64-linux-gnu/bits/waitflags.h" 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/waitflags.h" 1 3
+# 52 "/usr/mips-linux-gnu/include/bits/waitflags.h" 3
 typedef enum
 {
   P_ALL,
   P_PID,
   P_PGID
 } idtype_t;
-# 40 "/usr/include/stdlib.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/waitstatus.h" 1 3 4
-# 41 "/usr/include/stdlib.h" 2 3 4
-# 55 "/usr/include/stdlib.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/floatn.h" 1 3 4
-# 120 "/usr/include/x86_64-linux-gnu/bits/floatn.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/floatn-common.h" 1 3 4
-# 24 "/usr/include/x86_64-linux-gnu/bits/floatn-common.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/long-double.h" 1 3 4
-# 25 "/usr/include/x86_64-linux-gnu/bits/floatn-common.h" 2 3 4
-# 121 "/usr/include/x86_64-linux-gnu/bits/floatn.h" 2 3 4
-# 56 "/usr/include/stdlib.h" 2 3 4
+# 40 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/waitstatus.h" 1 3
+# 41 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
+# 55 "/usr/mips-linux-gnu/include/stdlib.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/floatn.h" 1 3
+# 23 "/usr/mips-linux-gnu/include/bits/floatn.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/long-double.h" 1 3
+# 24 "/usr/mips-linux-gnu/include/bits/floatn.h" 2 3
+# 95 "/usr/mips-linux-gnu/include/bits/floatn.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/floatn-common.h" 1 3
+# 24 "/usr/mips-linux-gnu/include/bits/floatn-common.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/long-double.h" 1 3
+# 25 "/usr/mips-linux-gnu/include/bits/floatn-common.h" 2 3
+# 96 "/usr/mips-linux-gnu/include/bits/floatn.h" 2 3
+# 56 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
 
 
 typedef struct
@@ -1100,7 +1172,7 @@ __extension__ typedef struct
     long long int quot;
     long long int rem;
   } lldiv_t;
-# 97 "/usr/include/stdlib.h" 3 4
+# 97 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern size_t __ctype_get_mb_cur_max (void) __attribute__ ((__nothrow__ , __leaf__)) ;
 
 
@@ -1133,7 +1205,7 @@ extern float strtof (const char *__restrict __nptr,
 extern long double strtold (const char *__restrict __nptr,
        char **__restrict __endptr)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
-# 176 "/usr/include/stdlib.h" 3 4
+# 176 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern long int strtol (const char *__restrict __nptr,
    char **__restrict __endptr, int __base)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
@@ -1166,7 +1238,7 @@ __extension__
 extern unsigned long long int strtoull (const char *__restrict __nptr,
      char **__restrict __endptr, int __base)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
-# 385 "/usr/include/stdlib.h" 3 4
+# 385 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern char *l64a (long int __n) __attribute__ ((__nothrow__ , __leaf__)) ;
 
 
@@ -1176,8 +1248,8 @@ extern long int a64l (const char *__s)
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/sys/types.h" 1 3 4
-# 27 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
+# 1 "/usr/mips-linux-gnu/include/sys/types.h" 1 3
+# 27 "/usr/mips-linux-gnu/include/sys/types.h" 3
 
 
 
@@ -1193,13 +1265,14 @@ typedef __u_quad_t u_quad_t;
 typedef __fsid_t fsid_t;
 
 
+
+
 typedef __loff_t loff_t;
 
 
 
-
 typedef __ino_t ino_t;
-# 59 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
+# 60 "/usr/mips-linux-gnu/include/sys/types.h" 3
 typedef __dev_t dev_t;
 
 
@@ -1221,9 +1294,9 @@ typedef __nlink_t nlink_t;
 
 
 typedef __uid_t uid_t;
-# 103 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
+# 104 "/usr/mips-linux-gnu/include/sys/types.h" 3
 typedef __id_t id_t;
-# 114 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
+# 115 "/usr/mips-linux-gnu/include/sys/types.h" 3
 typedef __daddr_t daddr_t;
 typedef __caddr_t caddr_t;
 
@@ -1232,9 +1305,9 @@ typedef __caddr_t caddr_t;
 
 
 typedef __key_t key_t;
-# 144 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
-# 1 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 1 3 4
-# 145 "/usr/include/x86_64-linux-gnu/sys/types.h" 2 3 4
+# 145 "/usr/mips-linux-gnu/include/sys/types.h" 3
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 1 3 4
+# 146 "/usr/mips-linux-gnu/include/sys/types.h" 2 3
 
 
 
@@ -1245,64 +1318,45 @@ typedef unsigned int uint;
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/stdint-intn.h" 1 3 4
-# 24 "/usr/include/x86_64-linux-gnu/bits/stdint-intn.h" 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/stdint-intn.h" 1 3
+# 24 "/usr/mips-linux-gnu/include/bits/stdint-intn.h" 3
 typedef __int8_t int8_t;
 typedef __int16_t int16_t;
 typedef __int32_t int32_t;
 typedef __int64_t int64_t;
-# 156 "/usr/include/x86_64-linux-gnu/sys/types.h" 2 3 4
-
-
-typedef __uint8_t u_int8_t;
-typedef __uint16_t u_int16_t;
-typedef __uint32_t u_int32_t;
-typedef __uint64_t u_int64_t;
-
+# 157 "/usr/mips-linux-gnu/include/sys/types.h" 2 3
+# 178 "/usr/mips-linux-gnu/include/sys/types.h" 3
+typedef unsigned int u_int8_t __attribute__ ((__mode__ (__QI__)));
+typedef unsigned int u_int16_t __attribute__ ((__mode__ (__HI__)));
+typedef unsigned int u_int32_t __attribute__ ((__mode__ (__SI__)));
+typedef unsigned int u_int64_t __attribute__ ((__mode__ (__DI__)));
 
 typedef int register_t __attribute__ ((__mode__ (__word__)));
-# 176 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
-# 1 "/usr/include/endian.h" 1 3 4
-# 35 "/usr/include/endian.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/byteswap.h" 1 3 4
-# 33 "/usr/include/x86_64-linux-gnu/bits/byteswap.h" 3 4
-static __inline __uint16_t
-__bswap_16 (__uint16_t __bsx)
+# 194 "/usr/mips-linux-gnu/include/sys/types.h" 3
+# 1 "/usr/mips-linux-gnu/include/endian.h" 1 3
+# 36 "/usr/mips-linux-gnu/include/endian.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/endian.h" 1 3
+# 37 "/usr/mips-linux-gnu/include/endian.h" 2 3
+# 60 "/usr/mips-linux-gnu/include/endian.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/byteswap.h" 1 3
+# 34 "/usr/mips-linux-gnu/include/bits/byteswap.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/byteswap-16.h" 1 3
+# 35 "/usr/mips-linux-gnu/include/bits/byteswap.h" 2 3
+# 43 "/usr/mips-linux-gnu/include/bits/byteswap.h" 3
+static __inline unsigned int
+__bswap_32 (unsigned int __bsx)
 {
-
-  return __builtin_bswap16 (__bsx);
-
-
-
-}
-
-
-
-
-
-
-static __inline __uint32_t
-__bswap_32 (__uint32_t __bsx)
-{
-
   return __builtin_bswap32 (__bsx);
-
-
-
 }
-# 69 "/usr/include/x86_64-linux-gnu/bits/byteswap.h" 3 4
-__extension__ static __inline __uint64_t
+# 74 "/usr/mips-linux-gnu/include/bits/byteswap.h" 3
+static __inline __uint64_t
 __bswap_64 (__uint64_t __bsx)
 {
-
   return __builtin_bswap64 (__bsx);
-
-
-
 }
-# 36 "/usr/include/endian.h" 2 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/uintn-identity.h" 1 3 4
-# 32 "/usr/include/x86_64-linux-gnu/bits/uintn-identity.h" 3 4
+# 61 "/usr/mips-linux-gnu/include/endian.h" 2 3
+# 1 "/usr/mips-linux-gnu/include/bits/uintn-identity.h" 1 3
+# 32 "/usr/mips-linux-gnu/include/bits/uintn-identity.h" 3
 static __inline __uint16_t
 __uint16_identity (__uint16_t __x)
 {
@@ -1320,24 +1374,21 @@ __uint64_identity (__uint64_t __x)
 {
   return __x;
 }
-# 37 "/usr/include/endian.h" 2 3 4
-# 177 "/usr/include/x86_64-linux-gnu/sys/types.h" 2 3 4
+# 62 "/usr/mips-linux-gnu/include/endian.h" 2 3
+# 195 "/usr/mips-linux-gnu/include/sys/types.h" 2 3
 
 
-# 1 "/usr/include/x86_64-linux-gnu/sys/select.h" 1 3 4
-# 30 "/usr/include/x86_64-linux-gnu/sys/select.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/select.h" 1 3 4
-# 22 "/usr/include/x86_64-linux-gnu/bits/select.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/wordsize.h" 1 3 4
-# 23 "/usr/include/x86_64-linux-gnu/bits/select.h" 2 3 4
-# 31 "/usr/include/x86_64-linux-gnu/sys/select.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/sys/select.h" 1 3
+# 30 "/usr/mips-linux-gnu/include/sys/select.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/select.h" 1 3
+# 31 "/usr/mips-linux-gnu/include/sys/select.h" 2 3
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/sigset_t.h" 1 3
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/__sigset_t.h" 1 3
 
 
 
@@ -1346,15 +1397,15 @@ typedef struct
 {
   unsigned long int __val[(1024 / (8 * sizeof (unsigned long int)))];
 } __sigset_t;
-# 5 "/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h" 2 3 4
+# 5 "/usr/mips-linux-gnu/include/bits/types/sigset_t.h" 2 3
 
 
 typedef __sigset_t sigset_t;
-# 34 "/usr/include/x86_64-linux-gnu/sys/select.h" 2 3 4
+# 34 "/usr/mips-linux-gnu/include/sys/select.h" 2 3
 
 
 
-# 1 "/usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h" 1 3 4
+# 1 "/usr/mips-linux-gnu/include/bits/types/struct_timeval.h" 1 3
 
 
 
@@ -1367,7 +1418,7 @@ struct timeval
   __time_t tv_sec;
   __suseconds_t tv_usec;
 };
-# 38 "/usr/include/x86_64-linux-gnu/sys/select.h" 2 3 4
+# 38 "/usr/mips-linux-gnu/include/sys/select.h" 2 3
 
 
 
@@ -1380,7 +1431,7 @@ typedef __suseconds_t suseconds_t;
 
 
 typedef long int __fd_mask;
-# 59 "/usr/include/x86_64-linux-gnu/sys/select.h" 3 4
+# 59 "/usr/mips-linux-gnu/include/sys/select.h" 3
 typedef struct
   {
 
@@ -1400,22 +1451,43 @@ typedef struct
 
 
 typedef __fd_mask fd_mask;
-# 91 "/usr/include/x86_64-linux-gnu/sys/select.h" 3 4
+# 91 "/usr/mips-linux-gnu/include/sys/select.h" 3
 
-# 101 "/usr/include/x86_64-linux-gnu/sys/select.h" 3 4
+# 101 "/usr/mips-linux-gnu/include/sys/select.h" 3
 extern int select (int __nfds, fd_set *__restrict __readfds,
      fd_set *__restrict __writefds,
      fd_set *__restrict __exceptfds,
      struct timeval *__restrict __timeout);
-# 113 "/usr/include/x86_64-linux-gnu/sys/select.h" 3 4
+# 113 "/usr/mips-linux-gnu/include/sys/select.h" 3
 extern int pselect (int __nfds, fd_set *__restrict __readfds,
       fd_set *__restrict __writefds,
       fd_set *__restrict __exceptfds,
       const struct timespec *__restrict __timeout,
       const __sigset_t *__restrict __sigmask);
-# 126 "/usr/include/x86_64-linux-gnu/sys/select.h" 3 4
+# 126 "/usr/mips-linux-gnu/include/sys/select.h" 3
 
-# 180 "/usr/include/x86_64-linux-gnu/sys/types.h" 2 3 4
+# 198 "/usr/mips-linux-gnu/include/sys/types.h" 2 3
+
+
+
+
+
+
+
+# 1 "/usr/mips-linux-gnu/include/sys/sysmacros.h" 1 3
+# 41 "/usr/mips-linux-gnu/include/sys/sysmacros.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/sysmacros.h" 1 3
+# 42 "/usr/mips-linux-gnu/include/sys/sysmacros.h" 2 3
+# 71 "/usr/mips-linux-gnu/include/sys/sysmacros.h" 3
+
+
+extern unsigned int gnu_dev_major (__dev_t __dev) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));
+extern unsigned int gnu_dev_minor (__dev_t __dev) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));
+extern __dev_t gnu_dev_makedev (unsigned int __major, unsigned int __minor) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__));
+# 85 "/usr/mips-linux-gnu/include/sys/sysmacros.h" 3
+
+# 206 "/usr/mips-linux-gnu/include/sys/types.h" 2 3
+
 
 
 
@@ -1437,54 +1509,13 @@ typedef __fsblkcnt_t fsblkcnt_t;
 
 
 typedef __fsfilcnt_t fsfilcnt_t;
-# 227 "/usr/include/x86_64-linux-gnu/sys/types.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h" 1 3 4
-# 23 "/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 1 3 4
-# 44 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h" 1 3 4
-# 21 "/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/wordsize.h" 1 3 4
-# 22 "/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h" 2 3 4
-# 45 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 2 3 4
-
-
-
-
-typedef struct __pthread_internal_list
-{
-  struct __pthread_internal_list *__prev;
-  struct __pthread_internal_list *__next;
-} __pthread_list_t;
-
-typedef struct __pthread_internal_slist
-{
-  struct __pthread_internal_slist *__next;
-} __pthread_slist_t;
-# 74 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/struct_mutex.h" 1 3 4
-# 22 "/usr/include/x86_64-linux-gnu/bits/struct_mutex.h" 3 4
-struct __pthread_mutex_s
-{
-  int __lock;
-  unsigned int __count;
-  int __owner;
-
-  unsigned int __nusers;
-
-
-
-  int __kind;
-
-  short __spins;
-  short __elision;
-  __pthread_list_t __list;
-# 53 "/usr/include/x86_64-linux-gnu/bits/struct_mutex.h" 3 4
-};
-# 75 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 2 3 4
-# 87 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h" 1 3 4
-# 23 "/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h" 3 4
+# 254 "/usr/mips-linux-gnu/include/sys/types.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/pthreadtypes.h" 1 3
+# 23 "/usr/mips-linux-gnu/include/bits/pthreadtypes.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/thread-shared-types.h" 1 3
+# 77 "/usr/mips-linux-gnu/include/bits/thread-shared-types.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h" 1 3
+# 51 "/usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h" 3
 struct __pthread_rwlock_arch_t
 {
   unsigned int __readers;
@@ -1493,24 +1524,53 @@ struct __pthread_rwlock_arch_t
   unsigned int __writers_futex;
   unsigned int __pad3;
   unsigned int __pad4;
+# 69 "/usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h" 3
+  unsigned char __pad1;
+  unsigned char __pad2;
+  unsigned char __shared;
 
+
+  unsigned char __flags;
+# 83 "/usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h" 3
   int __cur_writer;
-  int __shared;
-  signed char __rwelision;
 
-
-
-
-  unsigned char __pad1[7];
-
-
-  unsigned long int __pad2;
-
-
-  unsigned int __flags;
-# 55 "/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h" 3 4
 };
-# 88 "/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h" 2 3 4
+# 78 "/usr/mips-linux-gnu/include/bits/thread-shared-types.h" 2 3
+# 88 "/usr/mips-linux-gnu/include/bits/thread-shared-types.h" 3
+typedef struct __pthread_internal_slist
+{
+  struct __pthread_internal_slist *__next;
+} __pthread_slist_t;
+# 118 "/usr/mips-linux-gnu/include/bits/thread-shared-types.h" 3
+struct __pthread_mutex_s
+{
+  int __lock ;
+  unsigned int __count;
+  int __owner;
+
+
+
+
+
+  int __kind;
+ 
+
+  unsigned int __nusers;
+
+
+
+
+
+
+  __extension__ union
+  {
+    int __spins;
+    __pthread_slist_t __list;
+  };
+
+
+ 
+};
 
 
 
@@ -1541,7 +1601,7 @@ struct __pthread_cond_s
   unsigned int __wrefs;
   unsigned int __g_signals[2];
 };
-# 24 "/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h" 2 3 4
+# 24 "/usr/mips-linux-gnu/include/bits/pthreadtypes.h" 2 3
 
 
 
@@ -1576,7 +1636,7 @@ typedef int pthread_once_t;
 
 union pthread_attr_t
 {
-  char __size[56];
+  char __size[36];
   long int __align;
 };
 
@@ -1588,7 +1648,7 @@ typedef union pthread_attr_t pthread_attr_t;
 typedef union
 {
   struct __pthread_mutex_s __data;
-  char __size[40];
+  char __size[24];
   long int __align;
 } pthread_mutex_t;
 
@@ -1607,7 +1667,7 @@ typedef union
 typedef union
 {
   struct __pthread_rwlock_arch_t __data;
-  char __size[56];
+  char __size[32];
   long int __align;
 } pthread_rwlock_t;
 
@@ -1628,7 +1688,7 @@ typedef volatile int pthread_spinlock_t;
 
 typedef union
 {
-  char __size[32];
+  char __size[20];
   long int __align;
 } pthread_barrier_t;
 
@@ -1637,11 +1697,11 @@ typedef union
   char __size[4];
   int __align;
 } pthread_barrierattr_t;
-# 228 "/usr/include/x86_64-linux-gnu/sys/types.h" 2 3 4
+# 255 "/usr/mips-linux-gnu/include/sys/types.h" 2 3
 
 
 
-# 395 "/usr/include/stdlib.h" 2 3 4
+# 395 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
 
 
 
@@ -1786,11 +1846,10 @@ extern int lcong48_r (unsigned short int __param[7],
 
 
 
-extern void *malloc (size_t __size) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__))
-     __attribute__ ((__alloc_size__ (1))) ;
+extern void *malloc (size_t __size) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) ;
 
 extern void *calloc (size_t __nmemb, size_t __size)
-     __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) __attribute__ ((__alloc_size__ (1, 2))) ;
+     __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) ;
 
 
 
@@ -1798,27 +1857,15 @@ extern void *calloc (size_t __nmemb, size_t __size)
 
 
 extern void *realloc (void *__ptr, size_t __size)
-     __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__warn_unused_result__)) __attribute__ ((__alloc_size__ (2)));
-
-
-
-
-
-
-
-extern void *reallocarray (void *__ptr, size_t __nmemb, size_t __size)
-     __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__warn_unused_result__))
-     __attribute__ ((__alloc_size__ (2, 3)));
-
-
-
+     __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__warn_unused_result__));
+# 563 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern void free (void *__ptr) __attribute__ ((__nothrow__ , __leaf__));
 
 
-# 1 "/usr/include/alloca.h" 1 3 4
-# 24 "/usr/include/alloca.h" 3 4
-# 1 "/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h" 1 3 4
-# 25 "/usr/include/alloca.h" 2 3 4
+# 1 "/usr/mips-linux-gnu/include/alloca.h" 1 3
+# 24 "/usr/mips-linux-gnu/include/alloca.h" 3
+# 1 "/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h" 1 3 4
+# 25 "/usr/mips-linux-gnu/include/alloca.h" 2 3
 
 
 
@@ -1833,14 +1880,13 @@ extern void *alloca (size_t __size) __attribute__ ((__nothrow__ , __leaf__));
 
 
 
-# 569 "/usr/include/stdlib.h" 2 3 4
+# 567 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
 
 
 
 
 
-extern void *valloc (size_t __size) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__))
-     __attribute__ ((__alloc_size__ (1))) ;
+extern void *valloc (size_t __size) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__malloc__)) ;
 
 
 
@@ -1900,7 +1946,7 @@ extern void _Exit (int __status) __attribute__ ((__nothrow__ , __leaf__)) __attr
 
 
 extern char *getenv (const char *__name) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;
-# 647 "/usr/include/stdlib.h" 3 4
+# 644 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int putenv (char *__string) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
 
 
@@ -1919,17 +1965,17 @@ extern int unsetenv (const char *__name) __attribute__ ((__nothrow__ , __leaf__)
 
 
 extern int clearenv (void) __attribute__ ((__nothrow__ , __leaf__));
-# 675 "/usr/include/stdlib.h" 3 4
+# 672 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern char *mktemp (char *__template) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
-# 688 "/usr/include/stdlib.h" 3 4
+# 685 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int mkstemp (char *__template) __attribute__ ((__nonnull__ (1))) ;
-# 710 "/usr/include/stdlib.h" 3 4
+# 707 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int mkstemps (char *__template, int __suffixlen) __attribute__ ((__nonnull__ (1))) ;
-# 731 "/usr/include/stdlib.h" 3 4
+# 728 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern char *mkdtemp (char *__template) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;
-# 784 "/usr/include/stdlib.h" 3 4
+# 781 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int system (const char *__command) ;
-# 800 "/usr/include/stdlib.h" 3 4
+# 797 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern char *realpath (const char *__restrict __name,
          char *__restrict __resolved) __attribute__ ((__nothrow__ , __leaf__)) ;
 
@@ -1939,7 +1985,7 @@ extern char *realpath (const char *__restrict __name,
 
 
 typedef int (*__compar_fn_t) (const void *, const void *);
-# 820 "/usr/include/stdlib.h" 3 4
+# 817 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern void *bsearch (const void *__key, const void *__base,
         size_t __nmemb, size_t __size, __compar_fn_t __compar)
      __attribute__ ((__nonnull__ (1, 2, 5))) ;
@@ -1952,7 +1998,7 @@ extern void *bsearch (const void *__key, const void *__base,
 
 extern void qsort (void *__base, size_t __nmemb, size_t __size,
      __compar_fn_t __compar) __attribute__ ((__nonnull__ (1, 4)));
-# 840 "/usr/include/stdlib.h" 3 4
+# 837 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int abs (int __x) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__)) ;
 extern long int labs (long int __x) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__)) ;
 
@@ -1974,7 +2020,7 @@ extern ldiv_t ldiv (long int __numer, long int __denom)
 __extension__ extern lldiv_t lldiv (long long int __numer,
         long long int __denom)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__const__)) ;
-# 872 "/usr/include/stdlib.h" 3 4
+# 869 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern char *ecvt (double __value, int __ndigit, int *__restrict __decpt,
      int *__restrict __sign) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (3, 4))) ;
 
@@ -2050,18 +2096,18 @@ extern size_t wcstombs (char *__restrict __s,
 
 
 extern int rpmatch (const char *__response) __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1))) ;
-# 957 "/usr/include/stdlib.h" 3 4
+# 954 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int getsubopt (char **__restrict __optionp,
         char *const *__restrict __tokens,
         char **__restrict __valuep)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1, 2, 3))) ;
-# 1003 "/usr/include/stdlib.h" 3 4
+# 1006 "/usr/mips-linux-gnu/include/stdlib.h" 3
 extern int getloadavg (double __loadavg[], int __nelem)
      __attribute__ ((__nothrow__ , __leaf__)) __attribute__ ((__nonnull__ (1)));
-# 1013 "/usr/include/stdlib.h" 3 4
-# 1 "/usr/include/x86_64-linux-gnu/bits/stdlib-float.h" 1 3 4
-# 1014 "/usr/include/stdlib.h" 2 3 4
-# 1023 "/usr/include/stdlib.h" 3 4
+# 1016 "/usr/mips-linux-gnu/include/stdlib.h" 3
+# 1 "/usr/mips-linux-gnu/include/bits/stdlib-float.h" 1 3
+# 1017 "/usr/mips-linux-gnu/include/stdlib.h" 2 3
+# 1026 "/usr/mips-linux-gnu/include/stdlib.h" 3
 
 # 4 "fib.c" 2
 
@@ -2110,7 +2156,7 @@ int main()
     }
     clk2 = clock() - clk1;
     float CPU = (float)clk2 / 
-# 47 "fib.c" 3 4
+# 47 "fib.c" 3
                              ((__clock_t) 1000000)
 # 47 "fib.c"
                                            ;
